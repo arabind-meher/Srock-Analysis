@@ -1,0 +1,6 @@
+analysis.venv
+
+old_data/
+
+main.py
+test.ipynb
